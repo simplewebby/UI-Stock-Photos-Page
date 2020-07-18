@@ -85,11 +85,21 @@ input{
     border-bottom: 1px solid #acacac;
     color: #acacac;
     font-size: 18px;
+    padding: 10px;
 }
  .fa-search{
     border: none;
     border-bottom: 1px solid #acacac;
     color: #acacac;
     font-size: 18px;
-    padding: 3px;
+    padding: 12px;
+}
+button{
+   padding: 12px 50px; 
+   color: #fff;
+   background-color: #555;
+   border: none;
+   border-radius: 3px;
+   font-size: 13px;
+   box-shadow: 3px 4px 8px rgb(157, 157, 157) ;
 }
